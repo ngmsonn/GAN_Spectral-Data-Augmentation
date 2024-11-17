@@ -1,1 +1,1 @@
-# LSTM-GAN for Spectral Data Augmentation
+# GAN for Spectral Data Augmentation
