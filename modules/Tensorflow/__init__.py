@@ -1,1 +1,1 @@
-
+from .DCGAN import *
